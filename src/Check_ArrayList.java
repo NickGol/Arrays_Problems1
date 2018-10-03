@@ -41,4 +41,4 @@ public class Check_ArrayList {
         dataField.setAccessible(true);
         return ((Object[]) dataField.get(l)).length;
     }
-}
+}//иоо
