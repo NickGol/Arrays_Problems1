@@ -86,7 +86,7 @@ public class Comparator_try {
             Comparator_try Rep = new Comparator_try();
             ArrL1.sort((a, b) -> b.compareTo(a));
             //ArrL.sort(Rep.compare(a,b));
-            //Collections.sort(ArrL, new Comparator_try());
+            //Collections.sort(ArrL, new Comparator_try());//укуцкуцкуцк
             Rep.largestNumber(ArrL);
             int a=0;
         }
