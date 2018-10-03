@@ -42,3 +42,4 @@ public class Check_ArrayList {
         return ((Object[]) dataField.get(l)).length;
     }
 }//иоо
+//фыыыыыыыыыыыыыыыыыыыыыы
